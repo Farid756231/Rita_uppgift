@@ -1,0 +1,17 @@
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\inlämningsuppgift.Form1.resources
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\inlämningsuppgift.csproj.GenerateResource.cache
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\inlämningsuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\inlämningsuppgift.AssemblyInfoInputs.cache
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\inlämningsuppgift.AssemblyInfo.cs
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\inlämningsuppgift.csproj.CoreCompileInputs.cache
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\bin\Debug\net8.0-windows\inlämningsuppgift.exe
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\bin\Debug\net8.0-windows\inlämningsuppgift.deps.json
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\bin\Debug\net8.0-windows\inlämningsuppgift.runtimeconfig.json
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\bin\Debug\net8.0-windows\inlämningsuppgift.dll
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\bin\Debug\net8.0-windows\inlämningsuppgift.pdb
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\inlämningsuppgift.dll
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\refint\inlämningsuppgift.dll
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\inlämningsuppgift.pdb
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\inlämningsuppgift.genruntimeconfig.cache
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\ref\inlämningsuppgift.dll
+C:\Users\Elgiganten\OneDrive\Skrivbord\inlämningsuppgift_winsform\inlämningsuppgift\inlämningsuppgift\obj\Debug\net8.0-windows\inlämningsuppgift.Properties.Resources.resources
